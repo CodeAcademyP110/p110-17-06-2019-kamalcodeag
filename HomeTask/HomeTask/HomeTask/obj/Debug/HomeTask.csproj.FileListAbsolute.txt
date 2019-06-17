@@ -1,0 +1,7 @@
+D:\Programming\Other\C#\17.06.2019(WinForm-Delegate,event)\HomeTask\HomeTask\HomeTask\bin\Debug\HomeTask.exe.config
+D:\Programming\Other\C#\17.06.2019(WinForm-Delegate,event)\HomeTask\HomeTask\HomeTask\bin\Debug\HomeTask.exe
+D:\Programming\Other\C#\17.06.2019(WinForm-Delegate,event)\HomeTask\HomeTask\HomeTask\bin\Debug\HomeTask.pdb
+D:\Programming\Other\C#\17.06.2019(WinForm-Delegate,event)\HomeTask\HomeTask\HomeTask\obj\Debug\HomeTask.csprojAssemblyReference.cache
+D:\Programming\Other\C#\17.06.2019(WinForm-Delegate,event)\HomeTask\HomeTask\HomeTask\obj\Debug\HomeTask.csproj.CoreCompileInputs.cache
+D:\Programming\Other\C#\17.06.2019(WinForm-Delegate,event)\HomeTask\HomeTask\HomeTask\obj\Debug\HomeTask.exe
+D:\Programming\Other\C#\17.06.2019(WinForm-Delegate,event)\HomeTask\HomeTask\HomeTask\obj\Debug\HomeTask.pdb
