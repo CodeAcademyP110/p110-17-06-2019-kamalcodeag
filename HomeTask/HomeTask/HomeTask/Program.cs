@@ -34,9 +34,9 @@ namespace HomeTask
             atm.OnBalanceUp += BalanceChangedAfterDeposit;
             atm.OnBalanceFinished += BalanceFinished;
 
-            ATM.Withdraw(50);
-            ATM.Deposit(200);
-            ATM.Withdraw(1150);
+            atm.Withdraw(50);
+            atm.Deposit(200);
+            atm.Withdraw(1150);
             #endregion
         }
 
@@ -78,20 +78,26 @@ namespace HomeTask
         public event MainDelegate OnBalanceUp;
         public event MainDelegate OnBalanceFinished;
 
-        public static void Withdraw(decimal money)
+        public void Withdraw(decimal money)
         {
             if (money > 0 && Balance >= money)
             {
                 Balance -= money;
                 Console.WriteLine(Balance);
+                OnBalanceLow.Invoke(this, null);
+                if(Balance <= 0)
+                {
+                    OnBalanceFinished.Invoke(this, null);
+                }
             }
         }
-        public static void Deposit(decimal money)
+        public void Deposit(decimal money)
         {
             if (money > 0)
             {
                 Balance += money;
                 Console.WriteLine(Balance);
+                OnBalanceUp.Invoke(this, null);
             }
         }
     }

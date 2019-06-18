@@ -5,3 +5,10 @@ D:\Programming\Other\C#\17.06.2019(WinForm-Delegate,event)\HomeTask\HomeTask\Hom
 D:\Programming\Other\C#\17.06.2019(WinForm-Delegate,event)\HomeTask\HomeTask\HomeTask\obj\Debug\HomeTask.csproj.CoreCompileInputs.cache
 D:\Programming\Other\C#\17.06.2019(WinForm-Delegate,event)\HomeTask\HomeTask\HomeTask\obj\Debug\HomeTask.exe
 D:\Programming\Other\C#\17.06.2019(WinForm-Delegate,event)\HomeTask\HomeTask\HomeTask\obj\Debug\HomeTask.pdb
+C:\Users\KamalAg\Desktop\Web\C#\p110-17-06-2019-kamalcodeag\HomeTask\HomeTask\HomeTask\obj\Debug\HomeTask.csprojAssemblyReference.cache
+C:\Users\KamalAg\Desktop\Web\C#\p110-17-06-2019-kamalcodeag\HomeTask\HomeTask\HomeTask\obj\Debug\HomeTask.csproj.CoreCompileInputs.cache
+C:\Users\KamalAg\Desktop\Web\C#\p110-17-06-2019-kamalcodeag\HomeTask\HomeTask\HomeTask\obj\Debug\HomeTask.exe
+C:\Users\KamalAg\Desktop\Web\C#\p110-17-06-2019-kamalcodeag\HomeTask\HomeTask\HomeTask\obj\Debug\HomeTask.pdb
+C:\Users\KamalAg\Desktop\Web\C#\p110-17-06-2019-kamalcodeag\HomeTask\HomeTask\HomeTask\bin\Debug\HomeTask.exe.config
+C:\Users\KamalAg\Desktop\Web\C#\p110-17-06-2019-kamalcodeag\HomeTask\HomeTask\HomeTask\bin\Debug\HomeTask.exe
+C:\Users\KamalAg\Desktop\Web\C#\p110-17-06-2019-kamalcodeag\HomeTask\HomeTask\HomeTask\bin\Debug\HomeTask.pdb
